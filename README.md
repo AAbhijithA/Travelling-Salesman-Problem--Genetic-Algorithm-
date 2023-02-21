@@ -3,3 +3,4 @@
 >* Crossover (source/destination cross)
 >* Mutation 
 >* Evaluation of fitness for the next set of population to get the sub-optimal answer.
+#### Note: Done in C++ due to comfort of the STL libraries for implementation of data-structures
